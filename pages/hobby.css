@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: #302b20;
+    padding: 20px;
+    background-image: url(../asset/sebatu3.jpg);
+
+}
+body {
+    background-color: rgb(218, 218, 218);
+    min-height: 150vh;
+    position: relative;
+}
+.hobby1 {
+    display : inline-block;
+    background-color: antiquewhite;
+}
+.foto {
+    width: 24%;
+}
